@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Navigation Component</string>
+    <string name="chat">Chat</string>
+    <string name="open_b">Open B</string>
+    <string name="welcome_to_fragment_b">Welcome to FragmentB</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
 </resources>
