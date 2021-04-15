@@ -5,4 +5,5 @@
     <string name="welcome_to_fragment_b">Welcome to FragmentB</string>
     <string name="profile">Profile</string>
     <string name="home">Home</string>
+    <string name="nav_component_link">www.github.com/kakyire/NavigationComponent</string>
 </resources>
